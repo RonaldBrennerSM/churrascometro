@@ -7,7 +7,11 @@
 </div>
 
 <p align="center">
-  <img alt="" src="" width="100%">
+  <img src="assets/churrascometro-pag.jpg" alt="pag" width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/churrascometro-pag1.jpg" alt="pag1" width="100%">
 </p>
 
 <p align="center">
